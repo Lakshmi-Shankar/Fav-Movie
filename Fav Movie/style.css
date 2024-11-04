@@ -1,0 +1,47 @@
+body{
+    background-color: bisque;
+}
+form{
+    margin-top: 150px;
+    text-align: center;
+}
+.mainbox{
+    margin: 150px;
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+}
+#input{
+    border-radius: 2px;
+}
+.moviebox{
+    margin: 150px;
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+}
+#addbutton{
+    color: black;
+    background-color: chocolate;
+    border-radius: 20px;
+    height: 30px;
+    width: 50px;
+}
+.remove{
+    background-color: beige;
+    border: 2px;
+    border-color: beige;
+}
+#movielist{
+    padding: 10px;
+    list-style-type: disc;
+}
+ul{
+    font-size: larger;
+}
+#bb{
+    display: flex;
+    justify-content: space-around;
+}
